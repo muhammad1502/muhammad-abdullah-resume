@@ -1,6 +1,6 @@
 # Muhammad Abdullah
 
-> Security operations analyst based in Islamabad, Pakistan, working remotely in the SOC of a Canadian cybersecurity firm that serves North American enterprise clients. Two years of alert triage, threat hunting and incident response in Elastic SIEM and Microsoft 365 Defender, including support during an active Akira ransomware attack, plus IT operations and Python/Pandas log automation. Also designs and builds accessible websites using AI-assisted development.
+> Security operations analyst based in Islamabad, Pakistan, working remotely in the SOC of a Canadian cybersecurity firm that serves North American enterprise clients. Two years of alert triage, threat hunting and incident response in Elastic SIEM and Microsoft 365 Defender, including support during an active, threat actor-led ransomware attack, plus IT operations and Python/Pandas log automation. Also designs and builds accessible websites using AI-assisted development.
 
 ## Contact
 - Email: muhammaddabddullah@outlook.com
@@ -10,7 +10,7 @@
 ## Current role: Security Operations Analyst, Ninpo Inc. (Oct 2024 to present, Ottawa, Canada, remote)
 SOC analyst for a Canadian cybersecurity firm, handling threat detection, incident response and IT operations across several North American enterprise client environments.
 
-- Incident response: Supported the response to an active Akira ransomware attack by isolating compromised domain controllers and ESXi hosts before large-scale encryption.
+- Incident response: Supported the response to an active, threat actor-led ransomware attack by isolating compromised domain controllers and ESXi hosts before large-scale encryption.
 - Threat hunting and triage: Investigates 100+ alerts a week in Elastic SIEM and classifies phishing in Perception Point with 95%+ accuracy. Findings have ranged from compromised VPN credentials to unauthorized RDP lateral movement.
 - Detection engineering: Worked with engineering to tune SIEM detection rules, cutting false positives by 20% through baseline behavior analysis and log correlation.
 - Endpoint hardening: Audited Elastic EDR health across hybrid environments and fixed hosts where anti-tampering protection had been turned off, reaching 100% telemetry coverage.
