@@ -91,11 +91,11 @@ export const profile = {
   portfolioHref: 'https://mabddullah.vercel.app',
   // Third-person summary for the downloadable CV. Every claim is backed below.
   cvSummary:
-    'Security operations analyst with two years of SOC, incident response and IT operations work for North American enterprise clients. Investigates 100+ alerts a week in Elastic SIEM and Microsoft 365 Defender and supported the response to an active Akira ransomware attack. Also designs and builds accessible websites using AI-assisted development.',
+    'Security operations analyst with two years of SOC, incident response and IT operations work for North American enterprise clients. Investigates 100+ alerts a week in Elastic SIEM and Microsoft 365 Defender and supported the response to an active, threat actor-led ransomware attack. Also designs and builds accessible websites using AI-assisted development.',
   site: 'linkedin.com/in/mabddullah',
   siteHref: 'https://www.linkedin.com/in/mabddullah',
   about: [
-    "I'm a security operations analyst at Ninpo Inc., working remotely in the SOC for North American enterprise clients. For the past **two years** I've triaged alerts, hunted threats and helped contain incidents, including an **active Akira ransomware attack**, where I helped isolate compromised domain controllers and ESXi hosts before large-scale encryption.",
+    "I'm a security operations analyst at Ninpo Inc., working remotely in the SOC for North American enterprise clients. For the past **two years** I've triaged alerts, hunted threats and helped contain incidents, including an **active, threat actor-led ransomware attack**, where I helped isolate compromised domain controllers and ESXi hosts before large-scale encryption.",
     "Each week I investigate **100+ alerts** in Elastic SIEM and Microsoft 365 Defender, and I use Python and Pandas to automate log analysis so triage stays fast. I also keep Canadian client environments running: Microsoft 365 tenant administration, firewall and VPN configuration, and endpoint provisioning.",
     'I also design and build websites. I use AI coding tools for the build and put my own time into layout, accessibility and user experience. This site is one example.',
   ],
@@ -121,7 +121,7 @@ export const experience: ResumeEntry[] = [
     sections: [
       {
         label: 'Incident response',
-        text: 'Supported the response to an active **Akira** ransomware attack by isolating compromised domain controllers and ESXi hosts before large-scale encryption.',
+        text: 'Supported the response to an active, **threat actor-led** ransomware attack by isolating compromised domain controllers and ESXi hosts before large-scale encryption.',
       },
       {
         label: 'Threat hunting and triage',
